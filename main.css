@@ -9,13 +9,12 @@
 } */
 
 body {
-    background-color: #ffffff;
     font-family: bilo,sans-serif;
     font-weight: 200;
     font-style: normal;
 }
 
-header, main {
+header, main, footer {
     text-align: center; 
 }
 
@@ -25,19 +24,14 @@ h1 {
     font-size: 3.5rem;
 }
 
-h2 {
-    padding: 25px 0;
-    font-weight: 200;
-    font-size: 2rem; 
-}
 .image {
     width: 100%;  
 }
 
-h3 {
-    text-transform: uppercase;
-    color: #e5c063; 
-    font-size: 1.5rem; 
+h2 {
+    padding: 25px 0;
+    font-weight: 200;
+    font-size: 2rem; 
 }
 
 span {
@@ -45,8 +39,9 @@ span {
     color: #6377a5; 
 }
 
-footer {
-    text-align: center;
+h3 {
+    text-transform: uppercase;
+    color: #e5c063; 
+    font-size: 1.5rem; 
 }
-
 
