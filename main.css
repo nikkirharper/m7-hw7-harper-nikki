@@ -9,10 +9,44 @@
 } */
 
 body {
-    background-color: #b3b3b2;
+    background-color: #ffffff;
+    font-family: bilo,sans-serif;
+    font-weight: 200;
+    font-style: normal;
 }
 
-.image {
-    width: 96%; 
-    margin: 2%; 
+header, main {
+    text-align: center; 
 }
+
+h1 {
+    padding: 25px 10px;
+    font-weight: 200;
+    font-size: 3.5rem;
+}
+
+h2 {
+    padding: 25px 0;
+    font-weight: 200;
+    font-size: 2rem; 
+}
+.image {
+    width: 100%;  
+}
+
+h3 {
+    text-transform: uppercase;
+    color: #e5c063; 
+    font-size: 1.5rem; 
+}
+
+span {
+    font-weight: 700;
+    color: #6377a5; 
+}
+
+footer {
+    text-align: center;
+}
+
+
